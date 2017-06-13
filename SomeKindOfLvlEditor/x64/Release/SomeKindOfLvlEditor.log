@@ -1,0 +1,22 @@
+﻿  Main.cpp
+Main.cpp(218): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(223): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(228): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(233): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(238): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(243): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(443): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Main.cpp(507): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+Main.cpp(648): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(666): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(684): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(705): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(727): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(748): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Main.cpp(739): warning C4101: dir: неиспользованная локальная переменная
+  Создание кода
+  1 of 629 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SomeKindOfLvlEditor.vcxproj -> d:\egor0\Documents\Visual Studio 2017\Projects\SomeKindOfLvlEditor\x64\Release\SomeKindOfLvlEditor.exe
